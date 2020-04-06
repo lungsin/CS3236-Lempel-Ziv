@@ -1,0 +1,4 @@
+random-binary.txt
+random-printable-char.txt
+bible.txt
+shakespear.txt
